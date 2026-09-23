@@ -78,13 +78,13 @@ The combined capital expenditure of the four major buyers and NVIDIA's revenue m
 
 ## Repository Structure
 ├── excel/
-│ └── [your Excel filename here] # Cleaned, structured dataset with calculated ratios
+│   └── big_tech_ai_spending2.xlsx              # Cleaned, structured dataset with calculated ratios
 ├── python/
-│ └── [your notebook/script filename here] # EDA, growth pattern analysis, visualizations
+│   └── ai_analysis.ipynb                       # EDA, growth pattern analysis, visualizations
 ├── sql/
-│ └── [your SQL filename here] # Window functions, CTEs, views, business queries
+│   └── ai_boom.sql                             # Window functions, CTEs, views, business queries
 ├── powerbi/
-│ └── [your Power BI filename here] # 3-page interactive dashboard
+│   └── ai_boom.pbix                            # 3-page interactive dashboard
 └── README.md
 ---
 
